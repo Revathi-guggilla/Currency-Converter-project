@@ -6,6 +6,6 @@ Implemented error handling and validation to enhance reliability and usability.
 
 **Technologies Used:** 
 
-Python 
-Tkinter 
-API
+Python, 
+Tkinter, 
+API.
