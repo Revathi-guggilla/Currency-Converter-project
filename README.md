@@ -1,2 +1,2 @@
-🌍 Currency Converter Project using python
+**🌍 Currency Converter Project using python**
 
