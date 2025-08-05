@@ -4,3 +4,8 @@ Developed a Python-based currency converter that allows users to convert between
 Integrated an API to fetch live exchange rates and ensure accurate conversions.
 Implemented error handling and validation to enhance reliability and usability.
 
+**Technologies Used:** 
+
+Python 
+Tkinter 
+API
